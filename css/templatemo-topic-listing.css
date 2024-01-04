@@ -652,6 +652,8 @@ strong {
 .topics-detail-block-image {
   display: block;
   border-radius: var(--border-radius-medium);
+  width: 100%;
+  height: auto;
 }
 
 blockquote {
